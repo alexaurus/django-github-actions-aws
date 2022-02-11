@@ -44,6 +44,6 @@ jobs:
           aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           application_name: django-github-actions-aws
           environment_name: Djangogithubactionsaws-env.eba-xwbqcmwb.us-east-2.elasticbeanstalk.com
-          version_label: 12348
+          version_label: 123489
           region: "us-east-2"
           deployment_package: deploy.zip
